@@ -1,6 +1,6 @@
 # Text_Adventure
 
-Welcome to **Text Adventure**! This game, built with React Native, presents ASCII-generated scenes inspired by Dante Alighieri's Inferno. You'll be faced with various choices, each leading you in a different direction. Though the app is complete, it's an unfinished project and serves as a casual experience rather than a fully developed journey. Enjoy exploring its unique scenarios!
+Welcome to **Text Adventure**! This game, built with React Native, presents ASCII-generated scenes inspired by Dante Alighieri's [Inferno](https://en.wikipedia.org/wiki/Inferno_(Dante)). You'll be faced with various choices, each leading you in a different direction. Though the app is complete, it's an unfinished project and serves as a casual experience rather than a fully developed journey. Enjoy exploring its unique scenarios!
 
 
 ---
